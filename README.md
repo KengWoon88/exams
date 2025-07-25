@@ -14,7 +14,7 @@ This repository contains the coding chanllenges for candidates to solve. Includi
 
 4. Details of implementation will be discussed during the interview. So try to solve the chanllenges by yourself first. We value honesty and integrity.
 
-
+<img src="images/coding.svg" >
 
 # C# Chanllenges
 
